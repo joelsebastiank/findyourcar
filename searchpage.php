@@ -1,7 +1,7 @@
 <?php
 
 
-	
+//THIS IS THE SEARCHING PAGE	
 
 
 	$carname=$_POST['carname'];//this values comes from html file after submitting
